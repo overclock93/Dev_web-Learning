@@ -1,0 +1,36 @@
+Foram criadas algumas tags mais intuitivas, levando em conta que elas sempre exitiam, mas como uma classe de uma div. São elas:
+<header></header>
+<nav></nav>
+<main></main>
+<footer></footer>
+
+Outras Tags semânticas:
+<section>
+<article>
+<aside>
+
+Tags não semânticas:
+<div>
+<span>
+
+As palavras inseridas no html, quando precisamos escreve - las em maiúsculos devemos estiliza-las no css, pois
+quando um deficiente visual usar equipamentos para leitura da página, os elementos em maiúsculo são interpretados
+como siglas.
+
+Propriedade display:
+inline
+block
+inline-block
+none
+
+Propriedades box model:
+width/height
+margin 
+padding
+border
+box-sizing
+
+Propriedade float:
+left
+right
+none
